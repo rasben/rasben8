@@ -1,0 +1,14 @@
+name: Rasben 8
+type: theme
+description: A theme, based on Classy - includes various frontend tools such as PatternLab and Grunt.
+core: 8.x
+base theme: classy
+
+libraries:
+  - rasben8/global-styling
+  - rasben8/global-js
+regions:
+header: Header
+content: Content
+footer: Footer
+sidebar: Sidebar
