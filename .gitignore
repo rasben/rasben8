@@ -1,4 +1,5 @@
 .DS_Store
 patternlab/public/*
+!patternlab/public/styleguide/
 *.sass-cache/
 node_modules/
